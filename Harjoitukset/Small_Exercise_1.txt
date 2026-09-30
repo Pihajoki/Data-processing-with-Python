@@ -1,0 +1,13 @@
+Small exercise for you. No need to submit this in Moodle!
+
+Assume you have data for ten persons for their height and weight.
+The data is provided below with variable names that you can copy to VSCode
+
+weights = [80, 90, 45, 60, 120, 99, 73, 82, 57, 63]
+heights = [180, 176, 155, 170, 179, 175, 190, 160, 169, 169]
+
+Your job is to calculate the Body Mass Index (BMI)
+Google for the equation and use it to calculate the BMIs for the data
+above for each person. 
+
+Then, do it with Numpy
