@@ -1,6 +1,6 @@
 # Datasetin muuttujat:
 ## Luokkamuuttujat
-number = yksilöllinen muuttuja, jolla tunnistetaan henkilö<br>
+education = korkein suoritettu tutkinto, 1=peruskoulu, 2=toinen aste, 3=kandidaatti, 4=maisteri
 gender = sukupuoli, mies = 1, nainen = 2<br>
 family = perhetilanne, sinkku = 1, parisuhteessa = 2<br>
 ## Numeeriset muuttujat
@@ -15,6 +15,7 @@ sat_workEnvironment = tyytyväisyys työympäristöön<br>
 sat_salary = tyytyväisyys palkkaan<br>
 sat_tasks = tyytyväisyys työtehtävät<br>
 ## Muuttujat joilla ei ole virkaa meidän analyysin kannalta
+number = yksilöllinen muuttuja, jolla tunnistetaan henkilö<br>
 healthCare = 1, jos henkilö on käyttänyt työteveyttä<br>
 holidayCabin = 1, jos henkilö on käyttänyt työpaikan mökkiä<br>
 gym = 1, jos henkilö on käyttänyt työpaikan kuntosalia<br>
