@@ -1,21 +1,21 @@
 # Datasetin muuttujat:
 ## Luokkamuuttujat
-number = yksilöllinen muuttuja, jolla tunnistetaan henkilö
-gender = sukupuoli, mies = 1, nainen = 2
-family = perhetilanne, sinkku = 1, parisuhteessa = 2
+number = yksilöllinen muuttuja, jolla tunnistetaan henkilö<br>
+gender = sukupuoli, mies = 1, nainen = 2<br>
+family = perhetilanne, sinkku = 1, parisuhteessa = 2<br>
 ## Numeeriset muuttujat
-age = ikä vuosissa
-years_of_service = vuosien lukumäärä mitä henkilö on ollut yrityksessä töissä
-salary = palkka kuukaudessa euroissa
+age = ikä vuosissa<br>
+years_of_service = vuosien lukumäärä mitä henkilö on ollut yrityksessä töissä<br>
+salary = palkka kuukaudessa euroissa<br>
 ## sat_muuttujat, jotka kuvaavat mielipidettä
 ### Kaikki näistä käyttävät asteikkoa 1-5, 1 = erittäin tyytymätön, 5 = erittäin tyytyväinen
-sat_management = tyytyväisyys esihenkilöihin
-sat_colleques = tyytyväisyys kolleegoihin
-sat_workEnvironment = tyytyväisyys työympäristöön
-sat_salary = tyytyväisyys palkkaan
-sat_tasks = tyytyväisyys työtehtävät
+sat_management = tyytyväisyys esihenkilöihin<br>
+sat_colleques = tyytyväisyys kolleegoihin<br>
+sat_workEnvironment = tyytyväisyys työympäristöön<br>
+sat_salary = tyytyväisyys palkkaan<br>
+sat_tasks = tyytyväisyys työtehtävät<br>
 ## Muuttujat joilla ei ole virkaa meidän analyysin kannalta
-healthCare = 1, jos henkilö on käyttänyt työteveyttä
-holidayCabin = 1, jos henkilö on käyttänyt työpaikan mökkiä
-gym = 1, jos henkilö on käyttänyt työpaikan kuntosalia
-muscleCare = 1, jos henkilö on käyttänyt työpaikan hierojaa (epassi)
+healthCare = 1, jos henkilö on käyttänyt työteveyttä<br>
+holidayCabin = 1, jos henkilö on käyttänyt työpaikan mökkiä<br>
+gym = 1, jos henkilö on käyttänyt työpaikan kuntosalia<br>
+muscleCare = 1, jos henkilö on käyttänyt työpaikan hierojaa (epassi)<br>
