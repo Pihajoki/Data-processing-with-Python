@@ -1,6 +1,6 @@
 # Datasetin muuttujat:
 ## Luokkamuuttujat
-education = korkein suoritettu tutkinto, 1=peruskoulu, 2=toinen aste, 3=kandidaatti, 4=maisteri
+education = korkein suoritettu tutkinto, 1=peruskoulu, 2=toinen aste, 3=kandidaatti, 4=maisteri<br>
 gender = sukupuoli, mies = 1, nainen = 2<br>
 family = perhetilanne, sinkku = 1, parisuhteessa = 2<br>
 ## Numeeriset muuttujat
